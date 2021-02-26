@@ -4,8 +4,8 @@
       <div class="header">
         <img
           class="header-image"
-          src="../assets/img/logo.png"
-          width="170"
+          src="../assets/img/logo-transparent.png"
+          width="100"
           alt="Opiniion"
         />
         <div class="header-link-wrapper">

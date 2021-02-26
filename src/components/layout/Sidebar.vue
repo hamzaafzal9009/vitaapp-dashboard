@@ -14,7 +14,7 @@
       >
         <div class="horizontal-centered">
           <img
-            src="../../assets/img/logo.png"
+            src="../../assets/img/logo-transparent.png"
             alt="Viteapp"
           />
         </div>
@@ -27,7 +27,7 @@
         <router-link to="/dashboard" class="horizontal-centered">
           <img
             height="40"
-            src="../../assets/img/logo.png"
+            src="../../assets/img/logo-transparent.png"
             alt="Viteapp Icon"
           />
         </router-link>
